@@ -1,0 +1,2 @@
+<mkconfig
+<$MKINCDIR/std/install
