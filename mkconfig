@@ -1,2 +1,4 @@
-<$MKINCDIR/config
+MKSHELL = sh
+MKINCDIR = $(MKINCDIR)
+<MKINCDIR/config
 PROGNAME = sl
